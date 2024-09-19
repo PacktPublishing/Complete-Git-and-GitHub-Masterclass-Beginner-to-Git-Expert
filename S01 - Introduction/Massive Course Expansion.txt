@@ -1,0 +1,5 @@
+Announcement dated 04 July 2024
+
+Massive Course Expansion
+
+We are making big changes to this course, mainly updating it with new & awesome content.  Upcoming content may include - Git Internals, Interactive rebase, More content on pull requests, GitHub features (Issues, Projects, Markdown, etc), GitHub Pages, GitHub Actions, Git Hooks, Shell Commands and much more.

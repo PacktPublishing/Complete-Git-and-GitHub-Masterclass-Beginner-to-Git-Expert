@@ -1,0 +1,6 @@
+GitHub Templates for [1] .gitignore
+https://github.com/github/gitignore
+
+
+GitHub Templates for [2] .gitignore
+https://www.toptal.com/developers/gitignore/
